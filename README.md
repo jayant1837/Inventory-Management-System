@@ -244,3 +244,11 @@ The Inventory Management System demonstrates fundamental and intermediate Java c
 
 The project helps demonstrate Java programming skills and provides a foundation for developing more advanced inventory management applications.
 ![image alt](https://github.com/jayant1837/Inventory-Management-System/blob/11a749cee6a76425da5cf5668f7958e01a1b8d05/Scrrenshot/output%201.png)
+![image alt](https://github.com/jayant1837/Inventory-Management-System/blob/5101ace23ebcc9b3410650a02d98eda6a6360c0e/Scrrenshot/output%202.png)
+![image alt](https://github.com/jayant1837/Inventory-Management-System/blob/5101ace23ebcc9b3410650a02d98eda6a6360c0e/Scrrenshot/output%203.png)
+![image alt](https://github.com/jayant1837/Inventory-Management-System/blob/5101ace23ebcc9b3410650a02d98eda6a6360c0e/Scrrenshot/output%204.png)
+![image alt](https://github.com/jayant1837/Inventory-Management-System/blob/5101ace23ebcc9b3410650a02d98eda6a6360c0e/Scrrenshot/output%205.png)
+![image alt](https://github.com/jayant1837/Inventory-Management-System/blob/400a1a7a22757dab0c40513ac8a65dbc496ef1fd/Scrrenshot/output%206.png)
+![image alt](https://github.com/jayant1837/Inventory-Management-System/blob/400a1a7a22757dab0c40513ac8a65dbc496ef1fd/Scrrenshot/output%207.png)
+![image alt](https://github.com/jayant1837/Inventory-Management-System/blob/400a1a7a22757dab0c40513ac8a65dbc496ef1fd/Scrrenshot/output%208.png)
+![image alt](https://github.com/jayant1837/Inventory-Management-System/blob/400a1a7a22757dab0c40513ac8a65dbc496ef1fd/Scrrenshot/output%209.png)
