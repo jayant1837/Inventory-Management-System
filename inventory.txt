@@ -1,0 +1,1 @@
+101|washing machine|8|200000.0
