@@ -243,3 +243,4 @@ After pushing, verify that your Java source code and README are accessible in yo
 The Inventory Management System demonstrates fundamental and intermediate Java concepts through a practical inventory application. It provides product management, stock classification, file-based data persistence, collections, exception handling, and multithreading.
 
 The project helps demonstrate Java programming skills and provides a foundation for developing more advanced inventory management applications.
+![image alt](https://github.com/jayant1837/Inventory-Management-System/blob/11a749cee6a76425da5cf5668f7958e01a1b8d05/Scrrenshot/output%201.png)
